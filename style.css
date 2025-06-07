@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+}
+
+canvas {
+  border: 2px solid #333;
+  background-color: green;
+  margin-top: 10px;
+}
+
+#turnInfo {
+  font-size: 18px;
+  margin-top: 10px;
+}
